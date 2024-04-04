@@ -30,13 +30,14 @@ Getting Started
 
 1. Clone the repository:
    
-	git clone https://github.com/your-username/python-mini-projects.git
+	git clone https://github.com/SamarthShinde/Python-Mini-Projects.git
+	
 
-2. Navigate to the project folder:
+3. Navigate to the project folder:
 
 	cd python-mini-projects
 
-3. Explore the projects:
+4. Explore the projects:
 	
  	Each project is contained in its own directory. Navigate to the project directory of your choice and explore the source code.
 
